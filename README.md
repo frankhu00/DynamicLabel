@@ -1,7 +1,7 @@
 # DynamicLabel
 DynamicLabel is an iOS UILabel that allows user interaction with various custom pattern-matching including #hashtag, @mention, and URL links. This is made using other similar modules as references, most notably [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) by Optonaut.
 
-## Important Properties and Methods
+## Important Properties and Method
 #### delegate : DynamicLabelDelegate
 Contains methods that is used to notify the controller when tap event happens.
 See Delegation Methods for more detail
