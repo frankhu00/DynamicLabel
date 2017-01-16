@@ -11,7 +11,7 @@ Array that defines what type of parses DynamicLabel will operate on.
 Possible values: ParseElement.hash, ParseElement.mention, ParseElement.url, ParseElement.custom(:String)
 Default: [.hash, .mention, .url]
 
-#### Font colors: hashColor, mentionColor, urlColor, customColor
+#### Font colors (hashColor, mentionColor, urlColor, customColor)
 These variable defines the font color that will be applied to the corresponding match types.
 Default values are defined in DataConstant.swift
 
